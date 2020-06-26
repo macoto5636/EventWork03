@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="images">
+        <item>選択してください</item>
+        <item>シンプル</item>
+        <item>かっこいい</item>
+        <item>かわいい</item>
+        <item>ナチュラル</item>
+        <item>ミステリアス</item>
+    </string-array>
+</resources>

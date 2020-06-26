@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="genres">
+        <item>選択してください</item>
+        <item>季節</item>
+        <item>祭り</item>
+        <item>キャンペーン</item>
+        <item>セール</item>
+        <item>美術館/博物館</item>
+        <item>スポーツ</item>
+        <item>ライブ</item>
+        <item>演劇</item>
+        <item>その他</item>
+    </string-array>
+</resources>
